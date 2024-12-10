@@ -7,6 +7,7 @@ import { AbleToTow } from '../interfaces/AbleToTow.js';
 class Truck extends Vehicle implements AbleToTow {
   wheels: Wheel[];
   towingCapacity: number;
+  vin: string | undefined;
 
   constructor(vin: string, color: string, make: string, model: string, year: number, weight: number, topSpeed: number, wheels: Wheel[], towingCapacity: number
     ) {
