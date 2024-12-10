@@ -10,7 +10,9 @@ AS a developer
 I WANT to update an existing application to include additional vehicle types
 SO THAT I am able to comprehend and work with existing code bases.
 
-## Getting Started
+## Usage
+
+Run the application by entenring the following command in the terminal:
 
 ```bash
 npm start
@@ -18,4 +20,7 @@ npm start
 
 Github link: git@github.com:solangebeduschi/challenge-8.git
 
-walkthrough video link: 
+walkthrough video link: https://app.screencastify.com/v2/manage/videos/DGXP0SZvKop8Vtzxv28Q
+
+#License
+This project is licensed under the MIT License. See the LICENSE file for more details.
